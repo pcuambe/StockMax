@@ -1,8 +1,6 @@
 # StockMax
-<b><i>Requisitos Funcionais</i></b>
 
-
-<b>Cadastro:</b>
+# Cadastro:
 
 ⦁	Permitir o cadastro de usuários
 
@@ -11,7 +9,7 @@
 ⦁	Permitir o cadastro de fornecedores
 
 
-<b>Controle</b>
+# Controle:
 
 ⦁	Permitir o controle de tarefas executadas por cada usuário (log)
 
@@ -34,7 +32,7 @@
 ⦁	O sistema deve permitir o envio de emails aos fornecedores para encomenda de produtos
 
 
-<b>Faturas e Recibos</b>
+# Faturas e Recibos
 
 ⦁	O sistema deve permitir a emissão de cotações
 
@@ -42,7 +40,7 @@
 
 
 
-<b>Relatórios</b>
+# Relatórios
 
 ⦁	O sistema deve emitir relatório de vendas
 
@@ -51,4 +49,3 @@
 ⦁	O sistema deve permitir a emissão de relatório de produtos fora do prazo
 
 ⦁	O sistema deve emitir relatório de produtos que ficarão fora do prazo em 45 dias
-</b>
